@@ -11,6 +11,8 @@ body {
             min-height: 100vh;
             text-align: center;
             overflow-x: hidden; /* Evita rolagem horizontal */
+            background: #ff00e1;
+            background: linear-gradient(90deg, rgba(255, 0, 225, 1) 0%, rgba(140, 0, 108, 1) 41%, rgba(219, 0, 0, 1) 100%);
         }
         .heart {
             font-size: 3rem;
@@ -159,4 +161,9 @@ img{
     text-decoration: none;
     color: white;  
 
+
+}
+
+.h3 {
+    color: black;
 }
