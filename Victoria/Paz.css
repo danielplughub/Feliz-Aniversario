@@ -20,7 +20,7 @@ body {
         }
         h1 {
             font-size: 2rem;
-            color: #e91e63;
+            color: black;
             margin: 1rem 0;
         }
       
@@ -167,3 +167,4 @@ img{
 .h3 {
     color: black;
 }
+
