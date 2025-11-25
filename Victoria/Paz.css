@@ -22,6 +22,7 @@ body {
             font-size: 2rem;
             color: black;
             margin: 1rem 0;
+            font-family: Georgia, 'Times New Roman', Times, serif;
         }
       
         .imagem {
@@ -44,6 +45,7 @@ body {
             font-size: 1.2rem;
             margin: 1rem 2rem;
             line-height: 1.5;
+            font-family: Georgia, 'Times New Roman', Times, serif;
         }
  
         
@@ -55,10 +57,12 @@ body {
         @media (max-width: 768px) {
             h1 {
                 font-size: 1.8rem;
+                font-family: Georgia, 'Times New Roman', Times, serif;
             }
             h3 {
                 font-size: 1rem;
                 margin: 1rem 1rem;
+                font-family: Georgia, 'Times New Roman', Times, serif;
             }
             .imagem {
                 max-width: 95%;
@@ -67,9 +71,11 @@ body {
         @media (max-width: 480px) {
             h1 {
                 font-size: 1.5rem;
+                font-family: Georgia, 'Times New Roman', Times, serif;
             }
             h3 {
                 font-size: 0.9rem;
+                font-family: Georgia, 'Times New Roman', Times, serif;
             }
             .heart {
                 font-size: 2.5rem;
@@ -149,6 +155,7 @@ img{
     border-radius: 12px;
     box-shadow: 0 4px #000000;
     transition: all ease 0.5s;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .Botão:hover {
@@ -167,4 +174,5 @@ img{
 .h3 {
     color: black;
 }
+
 
